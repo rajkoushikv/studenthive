@@ -45,19 +45,20 @@ All developers were involved in various aspects of the project, including but no
 
 # CS691 - Spring 2024 Deliverables
 
-## Presentations (Sprint Reviews)
+## Sprint 0 
+### Presentations (Sprint Reviews)
 
 - **Deliverable 1**
     - [Deliverable 1 Presentation Video](#)
     - [Deliverable 1 Presentation Slide](#)
 
-## Sprint Burndown Charts and Completed Tasks
+### Sprint Burndown Charts and Completed Tasks
 
 - **Sprint 1 Completed Tasks**
     - [Sprint 1 Burndown Chart](#)
     - [Completed Tasks Report](#)
 
-## Team working agreement
+### Team working agreement
 
 - [Team Working Agreement](#)
 
